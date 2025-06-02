@@ -1,2 +1,2 @@
 <h1>Pagina Pasteleria</h1>
-<p>README de pruebba</p>
+<p>Pagina ficticia de una pasteleria, hecha con colores pasteles alusivos al tema</p>
